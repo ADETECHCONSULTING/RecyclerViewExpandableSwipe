@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FlingTest</string>
+    
+    <string-array name="items">
+        <item>111111111111</item>
+        <item>222222222222</item>
+        <item>333333333333</item>
+        <item>444444444444</item>
+        <item>555555555555</item>
+        <item>666666666666</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+</resources>
